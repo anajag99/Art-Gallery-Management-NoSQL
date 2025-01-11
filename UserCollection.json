@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "admin",
+    "Password": "hashed_password",
+    "Real_Name": "Mark Davis",
+    "Designation": "Administrator"
+  },
+  {
+    "Username": "emp01",
+    "Password": "hashed_password",
+    "Real_Name": "Clara Johnson",
+    "Designation": "Curator"
+  },
+  {
+    "Username": "emp022",
+    "Password": "hashed_password",
+    "Real_Name": "Ken Whitman",
+    "Designation": "Gallery Manager"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Impressionist Masterpieces",
+    "Description": "A collection of iconic impressionist artworks",
+    "Start_Date": "2023-05-01",
+    "End_Date": "2023-08-31",
+    "Curator": "Emily Johnson",
+    "Artwork_IDs": ["ArtWork001", "ArtWork003", "ArtWork009"],
+    "Gallery_Space": "Main Exhibition Hall"
+  },
+  {
+    "Name": "Modern Art Showcase",
+    "Description": "Exploring contemporary art trends",
+    "Start_Date": "2023-10-01",
+    "End_Date": "2023-12-31",
+    "Curator": "Michael Smith",
+    "Artwork_IDs": ["ArtWork001", "ArtWork006", "ArtWork007", "ArtWork010"],
+    "Gallery_Space": "Gallery 2"
+  },
+  {
+    "Name": "Women in Art",
+    "Description": "Celebrating female artists and their contributions",
+    "Start_Date": "2024-03-15",
+    "End_Date": "2024-06-30",
+    "Curator": "Sarah Adams",
+    "Artwork_IDs": ["ArtWork005"],
+    "Gallery_Space": "Special Exhibition Wing"
+  },
+  {
+    "Name": "Abstract Expressionism",
+    "Description": "Exploring the movement of abstract expressionism",
+    "Start_Date": "2024-07-01",
+    "End_Date": "2024-09-30",
+    "Curator": "David Thompson",
+    "Gallery_Space": "Gallery 3"
+  },
+  {
+    "Name": "Renaissance Revival",
+    "Description": "Rediscovering the beauty of Renaissance art",
+    "Start_Date": "2024-10-15",
+    "End_Date": "2025-01-15",
+    "Curator": "Emma Garcia",
+    "Artwork_IDs": ["ArtWork002", "ArtWork008"],
+    "Gallery_Space": "Grand Hall"
+  }
+]

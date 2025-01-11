@@ -1,0 +1,132 @@
+[
+  {
+    "ID": "ArtWork001"
+    "Title": "The Starry Night",
+    "Artist": "Vincent van Gogh",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "73.7 cm × 92.1 cm",
+    "Description": "A famous landscape painting depicting the night sky over a village",
+    "Image_URLs": ["https://example.com/starry_night.jpg"],
+    "Acquisition_Date": "2023-01-15",
+    "Price": 1000000,
+    "Status": "available",
+    "Tags": ["landscape", "impressionism"]
+  },
+  {
+    "ID": "ArtWork002"
+    "Title": "Mona Lisa",
+    "Artist": "Leonardo da Vinci",
+    "Medium": "Oil on Panel",
+    "Dimensions": "77 cm × 53 cm",
+    "Description": "Iconic portrait painting of Lisa Gherardini",
+    "Image_URLs": ["https://example.com/mona_lisa.jpg"],
+    "Acquisition_Date": "2022-09-20",
+    "Price": 150000000,
+    "Status": "on loan",
+    "Tags": ["portrait", "renaissance"]
+  },
+  {
+    "ID": "ArtWork003"
+    "Title": "Starry Night Over the Rhône",
+    "Artist": "Vincent van Gogh",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "72.5 cm × 92 cm",
+    "Description": "Another masterpiece by van Gogh depicting a starry night over the Rhône river",
+    "Image_URLs": ["https://example.com/starry_night_rhone.jpg"],
+    "Acquisition_Date": "2023-02-28",
+    "Price": 800000,
+    "Status": "available",
+    "Tags": ["landscape", "impressionism"]
+  },
+  {
+    "ID": "ArtWork004"
+    "Title": "The Persistence of Memory",
+    "Artist": "Salvador Dalí",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "24 cm × 33 cm",
+    "Description": "Surreal depiction of melting clocks in a barren landscape",
+    "Image_URLs": ["https://example.com/persistence_of_memory.jpg"],
+    "Acquisition_Date": "2023-04-10",
+    "Price": 1200000,
+    "Status": "available",
+    "Tags": ["surrealism", "modern"]
+  },
+  {
+    "ID": "ArtWork005"
+    "Title": "Girl with a Pearl Earring",
+    "Artist": "Johannes Vermeer",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "44.5 cm × 39 cm",
+    "Description": "Famous portrait of a girl wearing a pearl earring",
+    "Image_URLs": ["https://example.com/girl_with_pearl_earring.jpg"],
+    "Acquisition_Date": "2023-07-05",
+    "Price": 900000,
+    "Status": "available",
+    "Tags": ["portrait", "baroque"]
+  },
+  {
+    "ID": "ArtWork006"
+    "Title": "The Great Wave off Kanagawa",
+    "Artist": "Katsushika Hokusai",
+    "Medium": "Woodblock Print",
+    "Dimensions": "25.7 cm × 37.8 cm",
+    "Description": "Iconic Japanese ukiyo-e print depicting a large wave",
+    "Image_URLs": ["https://example.com/great_wave.jpg"],
+    "Acquisition_Date": "2023-08-20",
+    "Price": 500000,
+    "Status": "available",
+    "Tags": ["landscape", "ukiyo-e"]
+  },
+  { 
+    "ID": "ArtWork007"
+    "Title": "Les Demoiselles d'Avignon",
+    "Artist": "Pablo Picasso",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "243.9 cm × 233.7 cm",
+    "Description": "Groundbreaking cubist painting depicting five nude women",
+    "Image_URLs": ["https://example.com/demoiselles_avignon.jpg"],
+    "Acquisition_Date": "2023-10-15",
+    "Price": 7000000,
+    "Status": "available",
+    "Tags": ["cubism", "modern"]
+  },
+  {
+    "ID": "ArtWork008"
+    "Title": "The Birth of Venus",
+    "Artist": "Sandro Botticelli",
+    "Medium": "Tempera on Canvas",
+    "Dimensions": "172.5 cm × 278.9 cm",
+    "Description": "Classic painting depicting the birth of the goddess Venus",
+    "Image_URLs": ["https://example.com/birth_of_venus.jpg"],
+    "Acquisition_Date": "2024-01-10",
+    "Price": 20000000,
+    "Status": "available",
+    "Tags": ["mythology", "renaissance"]
+  },
+  {
+    "ID": "ArtWork009"
+    "Title": "Water Lilies",
+    "Artist": "Claude Monet",
+    "Medium": "Oil on Canvas",
+    "Dimensions": "200 cm × 425 cm",
+    "Description": "Series of paintings depicting Monet's water garden at Giverny",
+    "Image_URLs": ["https://example.com/water_lilies.jpg"],
+    "Acquisition_Date": "2024-04-05",
+    "Price": 1800000,
+    "Status": "available",
+    "Tags": ["landscape", "impressionism"]
+  },
+  {
+    "ID": "ArtWork010"
+    "Title": "The Scream",
+    "Artist": "Edvard Munch",
+    "Medium": "Oil, Tempera, Pastel, and Crayon on Cardboard",
+    "Dimensions": "91 cm × 73.5 cm",
+    "Description": "Iconic expressionist painting depicting a figure screaming against a colorful sky",
+    "Image_URLs": ["https://example.com/the_scream.jpg"],
+    "Acquisition_Date": "2024-07-20",
+    "Price": 2500000,
+    "Status": "available",
+    "Tags": ["expressionism", "modern"]
+  }
+]

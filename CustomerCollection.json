@@ -1,0 +1,31 @@
+[
+  {
+    "ID": "CUST001"
+    "Name": "John Cox",
+    "Email": "john@example.com",
+    "Phone_Number": "+1234567890",
+    "Address": "123 Main St, LA, USA",
+    "Purchase_History": ["ArtWork009"],
+    "Preferences": ["landscape", "impressionism"],
+    "Notes": "Frequent visitor, interested in upcoming exhibitions."
+  },
+  {
+    "ID": "CUST002"
+    "Name": "Alice Smith",
+    "Email": "alice@example.com",
+    "Phone_Number": "+1987654321",
+    "Address": "456 Elm St, Tampa, Country",
+    "Preferences": ["portrait", "renaissance"],
+    "Notes": "First-time visitor, looking for gift ideas."
+  },
+  {
+    "ID": "CUST003"
+    "Name": "Bob Johnson",
+    "Email": "bob@example.com",
+    "Phone_Number": "+1122334455",
+    "Address": "789 Oak St, Detroit, Country",
+    "Purchase_History": ["ArtWork005"],
+    "Preferences": ["portrait", "baroque"],
+    "Notes": "Enjoys classic art styles."
+  }
+]

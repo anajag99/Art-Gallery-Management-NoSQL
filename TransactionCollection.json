@@ -1,0 +1,22 @@
+[
+  {
+    "Transaction_ID": "T123456",
+    "Customer_ID": "CUST001",
+    "Artwork_IDs": ["ArtWork009"],
+    "Transaction_Date": "2023-02-10",
+    "Payment_Method": "Credit Card",
+    "Total_Amount": 1000000,
+    "Commission_Generated": 100000,
+    "Status": "completed"
+  },
+  {
+    "Transaction_ID": "T789012",
+    "Customer_ID": "CUST003",
+    "Artwork_IDs": ["ArtWork005"],
+    "Transaction_Date": "2023-11-20",
+    "Payment_Method": "PayPal",
+    "Total_Amount": 50000000,
+    "Commission_Generated": 5000000,
+    "Status": "pending"
+  }
+]

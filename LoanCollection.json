@@ -1,0 +1,18 @@
+[
+  {
+    "Loan_ID": "L123",
+    "Artwork_ID": "ArtWork006",
+    "Borrower_Name_Institution": "Metropolitan Museum of Art",
+    "Start_Date": "2023-01-01",
+    "End_Date": "2023-06-30",
+    "Loan_Agreement_Details": "Agreed upon loan terms and conditions"
+  },
+  {
+    "Loan_ID": "L456",
+    "Artwork_ID": "ArtWork010",
+    "Borrower_Name_Institution": "Tate Modern",
+    "Start_Date": "2023-04-15",
+    "End_Date": "2023-10-15",
+    "Loan_Agreement_Details": "Loan extended for special exhibition"
+  }
+]
