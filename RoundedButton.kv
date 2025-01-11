@@ -1,0 +1,11 @@
+<RoundedButton@Button>:
+    background_color: 0, 0, 0, 0  # make default button color invisible
+    size_hint_y: None
+    height: '50dp'
+    canvas.before:
+        Color:
+            rgba: (0.25, 0.25, 0.25, 1)  # black color
+        RoundedRectangle:
+            pos: self.pos
+            size: self.size
+            radius: [20,]
